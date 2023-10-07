@@ -154,7 +154,7 @@
   (pad "15" thru_hole oval (at 2.56 -16.5) (size 1.85 2.54) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 188299e3-3089-4f25-9e72-a07eb27dbabd))
   (pad "16" thru_hole oval (at 5.1 -16.5) (size 1.85 2.54) (drill 1) (layers "*.Cu" "*.Mask") (tstamp c4978bc9-87d7-4f3e-8f08-99fedb646dac))
   (model "${AC1JA_3DMODELS}/2x16_LCD.STEP"
-    (offset (xyz 0 0 2.5))
+    (offset (xyz -1 1 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
